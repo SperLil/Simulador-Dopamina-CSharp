@@ -1,0 +1,14 @@
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\Dopamina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\Dopamina.AssemblyInfoInputs.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\Dopamina.AssemblyInfo.cs
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\Dopamina.csproj.CoreCompileInputs.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\bin\Debug\net8.0\Dopamina.exe
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\bin\Debug\net8.0\Dopamina.deps.json
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\bin\Debug\net8.0\Dopamina.runtimeconfig.json
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\bin\Debug\net8.0\Dopamina.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\bin\Debug\net8.0\Dopamina.pdb
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\Dopamina.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\refint\Dopamina.dll
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\Dopamina.pdb
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\Dopamina.genruntimeconfig.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\Dopamina\obj\Debug\net8.0\ref\Dopamina.dll
