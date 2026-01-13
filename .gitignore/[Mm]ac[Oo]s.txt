@@ -1,0 +1,6 @@
+[Mm]ac[Oo]s/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo

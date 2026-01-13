@@ -73,7 +73,7 @@ namespace Dopamina
             var macaco = new Macaco("George");
             //  ----Dia 1 (Nivel normal de dopamina 50) ----
 
-            Console.WriteLine("Nivel inicial de Doapamina: "+macaco.NivelDopamina);
+            Console.WriteLine("Nivel de Doapamina: "+macaco.NivelDopamina);
             Console.WriteLine("--- DIA 1: Aprendendo ---");
             macaco.VerLuz();
             macaco.BeberSuco();
@@ -116,7 +116,7 @@ namespace Dopamina
         }
         public void ExibirEstado()
         {
-            Console.WriteLine($"\n--- Satatus do Macaco : {Name} ---");
+            Console.WriteLine($"\n--- Status: {Name} ---");
             Console.WriteLine($"Dopamina: {NivelDopamina}");
             Console.WriteLine($"Ele tem experiencia? {(TemExperiencia ? "Sim" : "Não")}");
         }
